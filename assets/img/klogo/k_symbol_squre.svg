@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>k_symbol_squre</title>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" fill="#000000">
+            <path d="M64,0 L64,64 L0,64 L0,0 L64,0 Z M40.3639607,20.6101695 L26.661909,20.6101695 L18.440678,33.8983051 L28.3061552,33.8983051 L21.1810883,46.6440678 L44.4745763,29.0169492 L32.6908118,29.0169492 L40.3639607,20.6101695 Z" id="k_symbol_squre"></path>
+        </g>
+    </g>
+</svg>

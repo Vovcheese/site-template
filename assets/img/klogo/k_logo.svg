@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="119px" height="48px" viewBox="0 0 119 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>k_logo</title>
+    <g id="Logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-281.000000, -242.000000)" fill="#000000">
+            <g id="k_logo" transform="translate(281.000000, 242.000000)">
+                <polygon id="Rectangle" points="54.5789474 0 67.2105263 0 60.1368421 7.75 71 7.75 49.5263158 24 56.0947368 12.25 47 12.25"></polygon>
+                <text id="Кенарий" font-family="Druk-Wide-Medium-Cy, Druk Wide Medium Cy" font-size="20" font-style="expanded" font-weight="400" letter-spacing="-0.266666667">
+                    <tspan x="0" y="44">Кенарий</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
